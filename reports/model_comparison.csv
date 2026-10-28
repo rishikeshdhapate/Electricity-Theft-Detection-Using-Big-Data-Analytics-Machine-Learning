@@ -1,0 +1,5 @@
+Model,Threshold,Accuracy,Precision,Recall,F1,PR_AUC,ROC_AUC
+Standard Logistic Regression,0.5,0.9136,0.5,0.0042,0.0083,0.1783,0.6335
+Weighted Logistic Regression,0.5,0.6643,0.1288,0.5007,0.2049,0.1814,0.6355
+Random Forest,0.5,0.7087,0.1519,0.5174,0.2349,0.2055,0.6884
+Weighted Random Forest,0.55,0.7971,0.1895,0.4114,0.2595,0.2054,0.6922

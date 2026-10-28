@@ -1,0 +1,14 @@
+{
+    "project": "Electricity Theft Detection Using Big Data Analytics and Machine Learning",
+    "model": "Weighted Random Forest",
+    "classification_threshold": 0.55,
+    "features": [
+        "valid_readings",
+        "missing_ratio",
+        "mean_consumption",
+        "total_consumption"
+    ],
+    "num_trees": 100,
+    "max_depth": 8,
+    "label_column": "FLAG"
+}
